@@ -7,6 +7,7 @@ The purpose of this project was to build a website that inlcudes an article and 
 ## Results
 By entering values into the filter input boxes on the left of the screen the user can filter the data table to the right.
 - Example
+
 ![](Resources/filter_example.png)
 
 ## Summary
